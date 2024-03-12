@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a sample Kubernetes demo project V2.0
+          This is a sample Kubernetes Docker file Integrated project V3.0
         </p>
         <a
           className="App-link"
